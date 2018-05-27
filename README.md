@@ -30,4 +30,4 @@
 
 Всего упоминаний Новгорода нашел: 57
 
-[!task3](https://github.com/m1riada/hw9/blob/master/3.png)
+![task3](https://github.com/m1riada/hw9/blob/master/3.png)

@@ -30,7 +30,7 @@
 
 Всего упоминаний Новгорода нашела: 58
 
-![task3](https://github.com/m1riada/hw9/blob/master/3.png)
+![task3](https://github.com/m1riada/hw9/blob/master/njb.png)
 
 ### 4. Бонус:
 
